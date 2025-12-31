@@ -75,6 +75,21 @@ I enjoy building small, useful products and iterating based on real user feedbac
 
 ---
 
+Calcora  
+Online Calculator Collection for Everyday & Professional Use
+
+Website: https://www.calcora.org  
+Description:  
+Calcora is a lightweight collection of free online calculators designed to help users perform accurate calculations quickly and efficiently. The platform focuses on clarity, speed, and practical use cases, covering everyday needs as well as educational and professional scenarios. No ads, no distractions — just calculators that work.
+
+Typical users:  
+- Students and educators  
+- Engineers and developers  
+- Professionals needing quick calculations  
+- Anyone looking for fast, reliable online calculators
+
+---
+
 ### 📦 More Projects
 I’m continuously building and experimenting.  
 Some early-stage or experimental projects may not yet be listed here.
